@@ -1,0 +1,4 @@
+mw-scripts
+==========
+
+Mediawiki scripts
